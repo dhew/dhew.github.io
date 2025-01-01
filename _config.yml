@@ -55,9 +55,7 @@ kramdown:
 
 
 
-# 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+
 
 # Gitalk
 gitalk:
@@ -97,7 +95,7 @@ service-worker: true
 
 
 # Friends
-Other me: [
+friends: [
     {
         title: "豆瓣",
         href: "https://www.douban.com/people/dhew"
