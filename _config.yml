@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: Ov23li7YLPhretaTp0wm                            #生成的clientID
+  clientSecret: 05d142700fd33b77b343510d8e16651099627228    #生成的clientSecret
   repo: dhew.github.io    #仓库名称
   owner: dhew    #github用户名
   admin: dhew
@@ -77,7 +77,7 @@ gitalk:
 ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'G-1BJ7TF4EEW'            # Format: G-xxxxxxxxxx
 ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
@@ -97,12 +97,12 @@ service-worker: true
 
 
 # Friends
-friends: [
+Other me: [
     {
         title: "豆瓣",
         href: "https://www.douban.com/people/dhew"
     },{
-        title: "douban",
-        href: "https://www.douban.com/people/dhew"
+        title: "知乎",
+        href: "https://www.zhihu.com/people/dhew"
     }
 ]
